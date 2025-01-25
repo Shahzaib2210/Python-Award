@@ -1,11 +1,5 @@
 ### Python Award
 
-## Award:
-- Take input from user time taken for swiming in minutes and convert it into integer and store in swim variable.
-- Take input from user time taken for cycling in minutes and convert it into integer and store in cycle variable.
-- Take input from user time taken for running in minutes and convert it into integer and store in run variable.
-- Add swiming, cycling and running time and store in total_time variable.
-- Apply check if total_time is less than 100 then print "Provincial Colors".
-- Check if total_time is greater then 100 and less then equal to 105 then print "Provincial Half Colors".
-- Check if total_time is greater then 105 and less then equal to 110 then print "Provincial Scroll".
-- else print "No Award".
+This program prompts the user to input the time taken for swimming, cycling, and running, provided in minutes. It converts these inputs into integers, adds the total time, and then applies a check on that total time to determine the appropriate award using an if statement.
+
+<br> <img src="https://github.com/user-attachments/assets/133c559f-1c5a-4375-82f0-c58cf40a2fcd" width="1512" /> </br>
